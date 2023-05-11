@@ -41,5 +41,13 @@ projects:
   url: "https://drive.google.com/file/d/14qyypCCIduH458t1VhDzAjjxKOeR8h3V/view?usp=sharing" #Link del proyecto
   tags: ["Optimizacion","Python","Machine Learning"] #Etiquetas del proyecto
   
+- name: Optimización del Transporte en la logística para el e-Commerce
+  logo: /images/sections/projects/proyecto1.png #Logo del proyecto
+  role: Academic 
+  timeline: "2022" #Año
+  summary: "Determinar las rutas de transporte mas eficientes para Coppel, para minimizar los costos de operacion y el tiempo de entrega" #Descripción del proyecto
+  url: "https://drive.google.com/file/d/1wv052RxISuSscd9DKvHBYWY5uSbz_YNY/view?usp=sharing" #Link del proyecto
+  tags: ["Optimizacion","Python","Machine Learning"] #Etiquetas del proyecto
+  
 
  
