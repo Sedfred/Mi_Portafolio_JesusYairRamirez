@@ -30,7 +30,7 @@ projects:
   role: Academic 
   timeline: "2022" #Año
   summary: "Desarrollo de codigo en Pyhton para detectar la infección de malaria presente en imagenes de celulas" #Descripción del proyecto
-  url: "es/files/Currículum Jesús Yair Ramírez Islas (2).pdf" #Link del proyecto
+  file: "es/files/Currículum Jesús Yair Ramírez Islas (2).pdf" #Link del proyecto
   tags: ["Professional","Python"] #Etiquetas del proyecto
  
 - name: Nombre del proyecto 2
