@@ -33,7 +33,7 @@ projects:
   url: "https://drive.google.com/file/d/1OwDl4Nu1iYkqWRKHl8pxhiHbyRD1YlgA/view?usp=sharing" #Link del proyecto
   tags: ["Academic","Python","Machine Learning"] #Etiquetas del proyecto
   
-- name: PREDIAGNÓSTICO DE DIABETES
+- name: Prediagnóstico de diabetes
   logo: /images/sections/projects/proyecto1.png #Logo del proyecto
   role: Academic 
   timeline: "2022" #Año
