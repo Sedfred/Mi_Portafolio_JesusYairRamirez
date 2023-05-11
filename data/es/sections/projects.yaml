@@ -31,7 +31,7 @@ projects:
   timeline: "2022" #Año
   summary: "Desarrollo de codigo en Pyhton para detectar la infección de malaria presente en imagenes de celulas" #Descripción del proyecto
   url: https://drive.google.com/file/d/1OwDl4Nu1iYkqWRKHl8pxhiHbyRD1YlgA/view?usp=sharing" #Link del proyecto
-  tags: ["Professional","Python"] #Etiquetas del proyecto
+  tags: ["Academic","Python","Machine Learning"] #Etiquetas del proyecto
  
 - name: Nombre del proyecto 2
   logo: /images/sections/projects/proyecto2.png #Logo del proyecto
