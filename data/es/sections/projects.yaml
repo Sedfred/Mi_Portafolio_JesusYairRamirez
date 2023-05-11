@@ -30,7 +30,7 @@ projects:
   role: Academic 
   timeline: "2022" #Año
   summary: "Desarrollo de codigo en Pyhton para detectar la infección de malaria presente en imagenes de celulas" #Descripción del proyecto
-  url: https://drive.google.com/file/d/1OwDl4Nu1iYkqWRKHl8pxhiHbyRD1YlgA/view?usp=sharing" #Link del proyecto
+  url: "https://drive.google.com/file/d/1OwDl4Nu1iYkqWRKHl8pxhiHbyRD1YlgA/view?usp=sharing" #Link del proyecto
   tags: ["Academic","Python","Machine Learning"] #Etiquetas del proyecto
   
 - name: PREDIAGNÓSTICO DE DIABETES
@@ -38,7 +38,7 @@ projects:
   role: Academic
   timeline: "2022" #Año
   summary: "Comparar diversos métodos estadísticos para determinar aquellos factores que son determinantes en ser propenso a la diabetes" #Descripción del proyecto
-  url: https://drive.google.com/file/d/14qyypCCIduH458t1VhDzAjjxKOeR8h3V/view?usp=sharing" #Link del repositorio de github del proyecto
+  url: "https://drive.google.com/file/d/14qyypCCIduH458t1VhDzAjjxKOeR8h3V/view?usp=sharing" #Link del repositorio de github del proyecto
   tags: ["Personal","Optimizacion,"Machine Learning","Pyhton" ] #Etiquetas del proyecto
 
  
