@@ -12,16 +12,16 @@ buttons:
   filter: "all"
 - name: Python
   filter: "Python"
-- name: R
-  filter: "R"
+- name: Estadística
+  filter: "Estadística"
 - name: Machine Learning
   filter: "Machine Learning"
 - name: Academic
   filter: "Academic"
 - name: Professional
   filter: "Professional"
-- name: Personal
-  filter: "Personal"
+- name: Optimizacion
+  filter: "Optimizacion"
  
 # Proyectos
 projects:
